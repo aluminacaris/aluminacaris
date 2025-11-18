@@ -30,6 +30,6 @@
 ---
 
 ## 📫 Contato  
-- 💼 [LinkedIn](www.linkedin.com/in/raf-maibuk-703260305)  
+- 💼 [LinkedIn] (www.linkedin.com/in/raf-maibuk-703260305)  
 - 📧 E-mail: (maibuk.apsenac@gmail.com)  
 - 📂 Portfólio: (https://highfalutin-wineberry-361.notion.site/Portf-lio-de-design-17df0063755d802981e1cc83c50b40f5)  
