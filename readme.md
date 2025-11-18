@@ -1,5 +1,5 @@
 # 👋 Hey! me chamo Rafaella 
-mas pode me chamar de rafis! 😺
+### mas pode me chamar de rafis! 😺
 
 - 💻 Desenvolvedora Full Stack em formação (ADS 4/5) 
 - 📚 Estudando desenvolvimento mobile e evoluindo meu conhecimento em desenvolvimento web FullStack
