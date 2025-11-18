@@ -14,12 +14,11 @@ mas pode me chamar de rafis! 😺
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Tecnologias
 - **Linguagens:** Python, JavaScript 
 - **Front-end:** React.js, TailwindCSS  
 - **Back-end:** FastAPI  
 - **Banco de Dados:** PostgreSQL, SQL  
-- **Ferramentas:** Git, GitHub  
 
 ---
 
