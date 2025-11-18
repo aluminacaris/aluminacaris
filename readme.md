@@ -10,7 +10,7 @@
 - 📍 Apaixonada por desenvolvimento de software e entusiasta de UX/UI Design
 - 💡 Atuo como suporte técnico, em busca de um estágio no desenvolvimento 
 - 🎯 Buscando oportunidades para aplicar e expandir meus conhecimentos
-- 🌟 Além de programar, no tempo livre sou designer, canto, toco guitarra/baixo e jogo overwatch >:)
+- 🌟 Além de programar, no tempo livre sou designer, desenho, canto, toco guitarra/baixo e jogo overwatch >:)
 
 ---
 
