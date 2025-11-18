@@ -1,4 +1,4 @@
-# 👋 Hey! mw chamo Rafaella 
+# 👋 Hey! me chamo Rafaella 
 mas pode me chamar de rafis! 😺
 
 💻 Desenvolvedora Full Stack em formação (ADS 4/5) 
